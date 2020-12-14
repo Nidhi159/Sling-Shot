@@ -1,0 +1,3 @@
+                            -:SLING SHOT:-
+1.It is Simple Algorithmic Game  made in C++ Which Improves Your Calculation Speed.
+2.It improves the mathematical Calculation .  
